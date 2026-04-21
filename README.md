@@ -1,6 +1,3 @@
-## Hi there 👋
-
-TRYING..... PATIENCE!
 
 <!-- Header animado -->
 <div align="center">
@@ -11,8 +8,8 @@ TRYING..... PATIENCE!
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lmesliuk)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luciana_mesliuk@yahoo.com.ar)
   ![Location](https://img.shields.io/badge/Buenos_Aires,_Argentina-🇦🇷-A78BFA?style=for-the-badge)
   ![Open to Work](https://img.shields.io/badge/Open_to_Work-Remote-22c55e?style=for-the-badge)
 
